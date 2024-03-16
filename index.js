@@ -6,24 +6,24 @@ const questions = [
   {
     type: 'input',
     name: 'text',
-    message: 'Enter up to three characters for the logo:',
-    validate: input => input.length <= 3 ? true : 'Text must be up to three characters.'
+    message: 'Enter 3 characters or less for your logo: ',
+
   },
   {
     type: 'input',
     name: 'textColor',
-    message: 'Enter the text color (keyword or hexadecimal):',
+    message: 'Enter text color using a keyword or hexdecimal: ',
   },
   {
     type: 'list',
     name: 'shape',
-    message: 'Choose a shape:',
+    message: '{Pick a shape}:',
     choices: ['Circle', 'Triangle', 'Square'],
   },
   {
     type: 'input',
     name: 'shapeColor',
-    message: 'Enter the shape color (keyword or hexadecimal):',
+    message: 'Enter shape color using a keyword or hexdicimal: ',
   }
 ];
 
