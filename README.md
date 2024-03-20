@@ -33,7 +33,7 @@ and update/add roles within the company.
 To install this, simply type "node index.js" in the console.
 
 ## Usage
-Video showcasing how to use the app: https://drive.google.com/file/d/1R9tSgHxUSyT-ywv_g6B3gqDu2kb2HtU3/view
+Video showcasing how to use the app: https://drive.google.com/file/d/13TWeHRcUpPxZGCwYYuexQadQFQq1QCER/view
 
 ## License
 This project is licensed under the MIT License.
